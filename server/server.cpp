@@ -86,7 +86,7 @@ int babyAge = 5;
 int defaultActionAge = 3;
 
 
-double forceDeathAge = 60;
+double forceDeathAge = 100;
 
 
 double minSayGapInSeconds = 1.0;
@@ -117,9 +117,9 @@ int monumentCallID = 0;
 
 
 
-static double minFoodDecrementSeconds = 5.0;
-static double maxFoodDecrementSeconds = 20;
-static int babyBirthFoodDecrement = 10;
+static double minFoodDecrementSeconds = 20;
+static double maxFoodDecrementSeconds = 45;
+static int babyBirthFoodDecrement = 20;
 
 // bonus applied to all foods
 // makes whole server a bit easier (or harder, if negative)
@@ -131,7 +131,7 @@ static int eatBonus = 0;
 static unsigned int nextSequenceNumber = 1;
 
 
-static int requireClientPassword = 1;
+static int requireClientPassword = 0;
 static int requireTicketServerCheck = 1;
 static char *clientPassword = NULL;
 static char *ticketServerURL = NULL;
