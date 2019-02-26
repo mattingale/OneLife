@@ -1272,3 +1272,65 @@ L4 | Mon Feb 25 18:01:43 2019 (777 ms) | general | exiting: calling SDL_Quit()
 
 L4 | Mon Feb 25 18:01:43 2019 (795 ms) | general | exiting: Done.
 
+L4 | Mon Feb 25 22:36:01 2019 (866 ms) | general | New game starting up
+L4 | Mon Feb 25 22:36:01 2019 (918 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 22:36:01 2019 (936 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 22:36:01 2019 (945 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 22:36:01 2019 (950 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 22:36:01 2019 (950 ms) | general | Screen dimensions for largest-window mode:  1920x1080
+
+L4 | Mon Feb 25 22:36:01 2019 (951 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 22:36:01 2019 (951 ms) | general | 30 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 60 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 120 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 144 fps
+L4 | Mon Feb 25 22:36:01 2019 (990 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 22:36:01 2019 (990 ms) | general | All resolutions available
+L4 | Mon Feb 25 22:36:02 2019 (587 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 22:36:05 2019 (815 ms) | general | Recording game into file recordedGames/recordedGame000014.txt
+L4 | Mon Feb 25 22:36:05 2019 (836 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 22:36:05 2019 (836 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 22:51:07 2019 (784 ms) | general | New game starting up
+L4 | Mon Feb 25 22:51:07 2019 (828 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 22:51:07 2019 (843 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 22:51:07 2019 (843 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 22:51:07 2019 (849 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 22:51:07 2019 (849 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 30 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 60 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 120 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 144 fps
+L4 | Mon Feb 25 22:51:07 2019 (889 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 22:51:07 2019 (890 ms) | general | All resolutions available
+L4 | Mon Feb 25 22:51:08 2019 (276 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 22:51:09 2019 (550 ms) | general | Recording game into file recordedGames/recordedGame000015.txt
+L4 | Mon Feb 25 22:51:09 2019 (551 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 22:51:09 2019 (551 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 23:23:45 2019 (200 ms) | general | exiting...
+
+L4 | Mon Feb 25 23:23:45 2019 (247 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 23:23:45 2019 (466 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 23:23:45 2019 (466 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 23:23:45 2019 (467 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 23:23:45 2019 (655 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 23:23:45 2019 (656 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 23:23:45 2019 (657 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 23:23:45 2019 (754 ms) | general | exiting: deleting screenShotPrefix
+
+L4 | Mon Feb 25 23:23:45 2019 (754 ms) | general | exiting: Done.
+
