@@ -1,0 +1,1499 @@
+L4 | Mon Feb 25 16:55:42 2019 (572 ms) | general | New game starting up
+L4 | Mon Feb 25 16:55:42 2019 (572 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 16:55:42 2019 (592 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 16:55:42 2019 (592 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 16:55:42 2019 (599 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 16:55:42 2019 (599 ms) | general | 30 fps
+L4 | Mon Feb 25 16:55:42 2019 (599 ms) | general | 60 fps
+L4 | Mon Feb 25 16:55:42 2019 (599 ms) | general | 120 fps
+L4 | Mon Feb 25 16:55:42 2019 (599 ms) | general | 144 fps
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general | Current screen configuration is 800x600 with aspect ratio 1.33
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general | Checking if requested video mode (800x600) is available
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general | Available video modes:
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 16:55:42 2019 (613 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 16:55:42 2019 (671 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 16:55:46 2019 (68 ms) | general | Measured frame rate = 272.061270 fps
+
+L4 | Mon Feb 25 16:55:46 2019 (72 ms) | general | Closest possible frame rate = 144 fps
+
+L4 | Mon Feb 25 16:55:46 2019 (72 ms) | general | Vsync to enforce closested frame rate of 144 fps doesn't seem to be in effect.
+
+L4 | Mon Feb 25 16:55:46 2019 (72 ms) | general | Will sleep each frame to enforce desired frame rate of 60 fps
+
+L4 | Mon Feb 25 16:55:50 2019 (325 ms) | general | exiting...
+
+L4 | Mon Feb 25 16:55:50 2019 (329 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 16:55:50 2019 (580 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 16:55:50 2019 (580 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 16:55:50 2019 (580 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 16:55:50 2019 (580 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 16:55:50 2019 (580 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 16:55:50 2019 (598 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | New game starting up
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | 30 fps
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | 60 fps
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | 120 fps
+L4 | Mon Feb 25 16:56:47 2019 (774 ms) | general | 144 fps
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general | Current screen configuration is 800x600 with aspect ratio 1.33
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general | Checking if requested video mode (800x600) is available
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general | Available video modes:
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 16:56:47 2019 (775 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 16:56:47 2019 (776 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 16:56:48 2019 (26 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 16:56:52 2019 (692 ms) | general | Measured frame rate = 84.221040 fps
+
+L4 | Mon Feb 25 16:56:52 2019 (697 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Mon Feb 25 16:56:52 2019 (697 ms) | general | Vsync to enforce closested frame rate of 60 fps doesn't seem to be in effect.
+
+L4 | Mon Feb 25 16:56:52 2019 (697 ms) | general | Will sleep each frame to enforce desired frame rate of 60 fps
+
+L4 | Mon Feb 25 16:56:56 2019 (973 ms) | general | Recording game into file recordedGames/recordedGame000001.txt
+L4 | Mon Feb 25 16:56:57 2019 (10 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 16:56:57 2019 (10 ms) | general | Removed 0 stale recordings
+L1 | Mon Feb 25 16:58:35 2019 (107 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (129 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:35 2019 (130 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_0_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (40 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (45 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (46 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (47 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (47 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (47 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (47 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:37 2019 (47 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_1_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (953 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (959 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:38 2019 (960 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_2_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (853 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (858 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:40 2019 (859 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_3_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (419 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (420 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:42 2019 (421 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_4_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (295 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (300 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (301 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:44 2019 (302 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_5_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (573 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (574 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (574 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (574 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (574 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (575 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (576 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:46 2019 (576 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_6_x3_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (465 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y0.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y0.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y0.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y0.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y0_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y1.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y1.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y1.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (476 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y1.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y1_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y2.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y2.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y2.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y2.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y2_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y3.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x0_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y3.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x1_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y3.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x2_y3_square.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y3.tga does not exist
+L1 | Mon Feb 25 16:58:48 2019 (477 ms) | general | CRITICAL ERROR:  TGA file groundTileCache/biome_99999_x3_y3_square.tga does not exist
+L4 | Mon Feb 25 17:02:14 2019 (974 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:02:14 2019 (980 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:02:15 2019 (202 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:02:15 2019 (202 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:02:15 2019 (203 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:02:15 2019 (353 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:02:15 2019 (353 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:02:15 2019 (354 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:02:15 2019 (459 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | New game starting up
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | 30 fps
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | 60 fps
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | 120 fps
+L4 | Mon Feb 25 17:06:25 2019 (925 ms) | general | 144 fps
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general | Current screen configuration is 800x600 with aspect ratio 1.33
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general | Checking if requested video mode (800x600) is available
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general | Available video modes:
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 17:06:25 2019 (959 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:06:26 2019 (163 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:06:26 2019 (415 ms) | general | Recording game into file recordedGames/recordedGame000002.txt
+L4 | Mon Feb 25 17:06:26 2019 (424 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:06:26 2019 (424 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:07:17 2019 (392 ms) | general | Relaunching game ./OneLifeApp
+L4 | Mon Feb 25 17:07:17 2019 (398 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:07:17 2019 (398 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:07:17 2019 (626 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:07:17 2019 (626 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:07:17 2019 (628 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:07:17 2019 (674 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:07:17 2019 (674 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:07:17 2019 (674 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:07:17 2019 (692 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:07:23 2019 (673 ms) | general | New game starting up
+L4 | Mon Feb 25 17:07:23 2019 (673 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:07:23 2019 (694 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:07:23 2019 (694 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 17:07:23 2019 (701 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 17:07:23 2019 (701 ms) | general | Screen dimensions for largest-window mode:  800x450
+
+L4 | Mon Feb 25 17:07:23 2019 (703 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:07:23 2019 (703 ms) | general | 30 fps
+L4 | Mon Feb 25 17:07:23 2019 (703 ms) | general | 60 fps
+L4 | Mon Feb 25 17:07:23 2019 (704 ms) | general | 120 fps
+L4 | Mon Feb 25 17:07:23 2019 (704 ms) | general | 144 fps
+L4 | Mon Feb 25 17:07:23 2019 (732 ms) | general | Current screen configuration is 800x600 with aspect ratio 1.33
+L4 | Mon Feb 25 17:07:23 2019 (732 ms) | general | All resolutions available
+L4 | Mon Feb 25 17:07:23 2019 (969 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:07:26 2019 (625 ms) | general | Measured frame rate = 114.770448 fps
+
+L4 | Mon Feb 25 17:07:26 2019 (628 ms) | general | Closest possible frame rate = 120 fps
+
+L4 | Mon Feb 25 17:07:26 2019 (628 ms) | general | Vsync seems to be enforcing an allowed frame rate of 120 fps.
+
+L4 | Mon Feb 25 17:07:26 2019 (629 ms) | general | Recording game into file recordedGames/recordedGame000003.txt
+L4 | Mon Feb 25 17:07:26 2019 (636 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:07:26 2019 (636 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:07:47 2019 (430 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:07:47 2019 (438 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:07:47 2019 (657 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:07:47 2019 (657 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:07:47 2019 (658 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:07:47 2019 (786 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:07:47 2019 (787 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:07:47 2019 (788 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:07:47 2019 (849 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | New game starting up
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 17:07:56 2019 (966 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | 30 fps
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | 60 fps
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | 120 fps
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | 144 fps
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | Current screen configuration is 800x600 with aspect ratio 1.33
+L4 | Mon Feb 25 17:07:56 2019 (967 ms) | general | All resolutions available
+L4 | Mon Feb 25 17:07:57 2019 (132 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:07:57 2019 (378 ms) | general | Recording game into file recordedGames/recordedGame000004.txt
+L4 | Mon Feb 25 17:07:57 2019 (378 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:07:57 2019 (378 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:09:15 2019 (393 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:09:15 2019 (394 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:09:15 2019 (620 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:09:15 2019 (620 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:09:15 2019 (621 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:09:15 2019 (760 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:09:15 2019 (760 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:09:15 2019 (761 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:09:15 2019 (832 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | New game starting up
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | 30 fps
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | 60 fps
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | 120 fps
+L4 | Mon Feb 25 17:11:31 2019 (755 ms) | general | 144 fps
+L4 | Mon Feb 25 17:11:31 2019 (768 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:11:31 2019 (768 ms) | general | All resolutions available
+L4 | Mon Feb 25 17:11:31 2019 (988 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:11:33 2019 (318 ms) | general | Recording game into file recordedGames/recordedGame000005.txt
+L4 | Mon Feb 25 17:11:33 2019 (318 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:11:33 2019 (318 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:17:12 2019 (204 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:17:12 2019 (213 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:17:12 2019 (443 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:17:12 2019 (443 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:17:12 2019 (444 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:17:12 2019 (595 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:17:12 2019 (596 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:17:12 2019 (596 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:17:12 2019 (672 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:17:20 2019 (530 ms) | general | New game starting up
+L4 | Mon Feb 25 17:17:20 2019 (539 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:17:20 2019 (549 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:17:20 2019 (549 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 17:17:20 2019 (555 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 17:17:20 2019 (555 ms) | general | Screen dimensions for largest-window mode:  1920x1080
+
+L4 | Mon Feb 25 17:17:20 2019 (556 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:17:20 2019 (556 ms) | general | 30 fps
+L4 | Mon Feb 25 17:17:20 2019 (556 ms) | general | 60 fps
+L4 | Mon Feb 25 17:17:20 2019 (557 ms) | general | 120 fps
+L4 | Mon Feb 25 17:17:20 2019 (557 ms) | general | 144 fps
+L4 | Mon Feb 25 17:17:20 2019 (587 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:17:20 2019 (587 ms) | general | All resolutions available
+L4 | Mon Feb 25 17:17:20 2019 (941 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:17:22 2019 (245 ms) | general | Recording game into file recordedGames/recordedGame000006.txt
+L4 | Mon Feb 25 17:17:22 2019 (249 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:17:22 2019 (249 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:18:46 2019 (589 ms) | general | Relaunching game ./OneLifeApp
+L4 | Mon Feb 25 17:18:46 2019 (611 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:18:46 2019 (612 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:18:46 2019 (840 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:18:46 2019 (842 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:18:46 2019 (847 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:18:47 2019 (43 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:18:47 2019 (43 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:18:47 2019 (44 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:18:47 2019 (159 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:18:56 2019 (724 ms) | general | New game starting up
+L4 | Mon Feb 25 17:18:56 2019 (729 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:18:56 2019 (739 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:18:56 2019 (739 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 17:18:56 2019 (744 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 17:18:56 2019 (744 ms) | general | Screen dimensions for largest-window mode:  1920x1080
+
+L4 | Mon Feb 25 17:18:56 2019 (746 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:18:56 2019 (746 ms) | general | 30 fps
+L4 | Mon Feb 25 17:18:56 2019 (746 ms) | general | 60 fps
+L4 | Mon Feb 25 17:18:56 2019 (746 ms) | general | 120 fps
+L4 | Mon Feb 25 17:18:56 2019 (746 ms) | general | 144 fps
+L4 | Mon Feb 25 17:18:56 2019 (768 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:18:56 2019 (768 ms) | general | All resolutions available
+L4 | Mon Feb 25 17:18:56 2019 (995 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:19:01 2019 (534 ms) | general | Measured frame rate = 17.681731 fps
+
+L4 | Mon Feb 25 17:19:01 2019 (534 ms) | general | Closest possible frame rate = 30 fps
+
+L4 | Mon Feb 25 17:19:01 2019 (534 ms) | general | Vsync seems to be enforcing an allowed frame rate of 30 fps.
+
+L4 | Mon Feb 25 17:19:01 2019 (535 ms) | general | Recording game into file recordedGames/recordedGame000007.txt
+L4 | Mon Feb 25 17:19:01 2019 (555 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:19:01 2019 (555 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:19:49 2019 (835 ms) | general | Relaunching game ./OneLifeApp
+L4 | Mon Feb 25 17:19:49 2019 (863 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:19:49 2019 (864 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:19:50 2019 (99 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:19:50 2019 (101 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:19:50 2019 (108 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:19:50 2019 (294 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:19:50 2019 (294 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:19:50 2019 (296 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:19:50 2019 (344 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:19:53 2019 (726 ms) | general | New game starting up
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | 30 fps
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | 60 fps
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | 120 fps
+L4 | Mon Feb 25 17:19:53 2019 (736 ms) | general | 144 fps
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general | Available video modes:
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:19:53 2019 (747 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 17:19:53 2019 (748 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:19:54 2019 (145 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 17:19:54 2019 (239 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:19:58 2019 (70 ms) | general | Measured frame rate = 21.526422 fps
+
+L4 | Mon Feb 25 17:19:58 2019 (70 ms) | general | Closest possible frame rate = 30 fps
+
+L4 | Mon Feb 25 17:19:58 2019 (70 ms) | general | Vsync seems to be enforcing an allowed frame rate of 30 fps.
+
+L4 | Mon Feb 25 17:19:58 2019 (71 ms) | general | Recording game into file recordedGames/recordedGame000008.txt
+L4 | Mon Feb 25 17:19:58 2019 (71 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:19:58 2019 (71 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:20:39 2019 (963 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:20:39 2019 (963 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:20:40 2019 (193 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:20:40 2019 (193 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:20:40 2019 (194 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:20:40 2019 (362 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:20:40 2019 (362 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:20:40 2019 (363 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:20:40 2019 (456 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:20:51 2019 (357 ms) | general | New game starting up
+L4 | Mon Feb 25 17:20:51 2019 (367 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:20:51 2019 (367 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:20:51 2019 (367 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | 30 fps
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | 60 fps
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | 120 fps
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | 144 fps
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 17:20:51 2019 (368 ms) | general | Available video modes:
+L5 | Mon Feb 25 17:20:51 2019 (368 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 17:20:51 2019 (369 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:20:51 2019 (610 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 17:20:51 2019 (632 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:20:52 2019 (836 ms) | general | Recording game into file recordedGames/recordedGame000009.txt
+L4 | Mon Feb 25 17:20:52 2019 (837 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:20:52 2019 (837 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 17:21:14 2019 (541 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:21:14 2019 (541 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:21:14 2019 (772 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:21:14 2019 (772 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:21:14 2019 (775 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:21:14 2019 (918 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:21:14 2019 (918 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:21:14 2019 (920 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:21:15 2019 (14 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:21:17 2019 (338 ms) | general | New game starting up
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | 30 fps
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | 60 fps
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | 120 fps
+L4 | Mon Feb 25 17:21:17 2019 (345 ms) | general | 144 fps
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general | Available video modes:
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 17:21:17 2019 (346 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 17:21:17 2019 (347 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:21:17 2019 (582 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 17:21:17 2019 (601 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:21:18 2019 (830 ms) | general | Recording game into file recordedGames/recordedGame000010.txt
+L4 | Mon Feb 25 17:21:18 2019 (831 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:21:18 2019 (831 ms) | general | Removed 0 stale recordings
+L2 | Mon Feb 25 17:22:43 2019 (425 ms) | general | File does not exist in game folder: inputSoundTemp.wav
+
+L4 | Mon Feb 25 17:57:14 2019 (303 ms) | general | exiting...
+
+L4 | Mon Feb 25 17:57:14 2019 (303 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 17:57:14 2019 (575 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 17:57:14 2019 (575 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 17:57:14 2019 (580 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 17:57:14 2019 (821 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 17:57:14 2019 (822 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 17:57:14 2019 (823 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 17:57:14 2019 (945 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 17:57:26 2019 (705 ms) | general | New game starting up
+L4 | Mon Feb 25 17:57:26 2019 (708 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 17:57:26 2019 (716 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 17:57:26 2019 (720 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 17:57:26 2019 (731 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 17:57:26 2019 (731 ms) | general | 30 fps
+L4 | Mon Feb 25 17:57:26 2019 (731 ms) | general | 60 fps
+L4 | Mon Feb 25 17:57:26 2019 (731 ms) | general | 120 fps
+L4 | Mon Feb 25 17:57:26 2019 (731 ms) | general | 144 fps
+L4 | Mon Feb 25 17:57:26 2019 (796 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 17:57:26 2019 (796 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 17:57:26 2019 (796 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 17:57:26 2019 (796 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 17:57:26 2019 (796 ms) | general | Available video modes:
+L5 | Mon Feb 25 17:57:26 2019 (796 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 17:57:26 2019 (797 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 17:57:27 2019 (158 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 17:57:27 2019 (212 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 17:57:28 2019 (446 ms) | general | Recording game into file recordedGames/recordedGame000011.txt
+L4 | Mon Feb 25 17:57:28 2019 (468 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 17:57:28 2019 (468 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 18:00:11 2019 (590 ms) | general | exiting...
+
+L4 | Mon Feb 25 18:00:11 2019 (590 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 18:00:11 2019 (816 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 18:00:11 2019 (816 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 18:00:11 2019 (817 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 18:00:11 2019 (856 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 18:00:11 2019 (856 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 18:00:11 2019 (856 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 18:00:11 2019 (877 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 18:00:14 2019 (631 ms) | general | New game starting up
+L4 | Mon Feb 25 18:00:14 2019 (633 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 18:00:14 2019 (643 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 18:00:14 2019 (643 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 18:00:14 2019 (650 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 18:00:14 2019 (650 ms) | general | 30 fps
+L4 | Mon Feb 25 18:00:14 2019 (650 ms) | general | 60 fps
+L4 | Mon Feb 25 18:00:14 2019 (650 ms) | general | 120 fps
+L4 | Mon Feb 25 18:00:14 2019 (650 ms) | general | 144 fps
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general | Available video modes:
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 18:00:14 2019 (672 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 18:00:14 2019 (757 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 18:00:14 2019 (772 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 18:00:15 2019 (14 ms) | general | Recording game into file recordedGames/recordedGame000012.txt
+L4 | Mon Feb 25 18:00:15 2019 (15 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 18:00:15 2019 (15 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 18:00:37 2019 (64 ms) | general | Relaunching game ./OneLifeApp
+L4 | Mon Feb 25 18:00:37 2019 (70 ms) | general | exiting...
+
+L4 | Mon Feb 25 18:00:37 2019 (70 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 18:00:37 2019 (280 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 18:00:37 2019 (280 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 18:00:37 2019 (282 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 18:00:37 2019 (334 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 18:00:37 2019 (334 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 18:00:37 2019 (334 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 18:00:37 2019 (367 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 18:00:39 2019 (492 ms) | general | New game starting up
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Trying to start in fullscreen mode.
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | 30 fps
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | 60 fps
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | 120 fps
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | 144 fps
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Sticking with user's current screen resolution
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Checking if requested video mode (1920x1440) is available
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general | Available video modes:
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    2560 x 1600
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1920 x 1440
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1920 x 1200
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1856 x 1392
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1792 x 1344
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1680 x 1050
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1600 x 1200
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1440 x 900
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1400 x 1050
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1360 x 768
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1280 x 1024
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1280 x 960
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1280 x 800
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1280 x 768
+
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1152 x 864
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    1024 x 768
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    800 x 600
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    640 x 480
+
+L4 | Mon Feb 25 18:00:39 2019 (495 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Mon Feb 25 18:00:39 2019 (679 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Mon Feb 25 18:00:39 2019 (709 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 18:00:43 2019 (441 ms) | general | Measured frame rate = 63.270063 fps
+
+L4 | Mon Feb 25 18:00:43 2019 (443 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Mon Feb 25 18:00:43 2019 (443 ms) | general | Vsync to enforce closested frame rate of 60 fps doesn't seem to be in effect.
+
+L4 | Mon Feb 25 18:00:43 2019 (443 ms) | general | Will sleep each frame to enforce desired frame rate of 60 fps
+
+L4 | Mon Feb 25 18:00:46 2019 (210 ms) | general | Recording game into file recordedGames/recordedGame000013.txt
+L4 | Mon Feb 25 18:00:46 2019 (213 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 18:00:46 2019 (213 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 18:01:43 2019 (518 ms) | general | exiting...
+
+L4 | Mon Feb 25 18:01:43 2019 (521 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 18:01:43 2019 (739 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 18:01:43 2019 (739 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 18:01:43 2019 (740 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 18:01:43 2019 (777 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 18:01:43 2019 (777 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 18:01:43 2019 (777 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 18:01:43 2019 (795 ms) | general | exiting: Done.
+
+L4 | Mon Feb 25 22:36:01 2019 (866 ms) | general | New game starting up
+L4 | Mon Feb 25 22:36:01 2019 (918 ms) | general | Target game image size:  1280x720
+
+L4 | Mon Feb 25 22:36:01 2019 (936 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 22:36:01 2019 (945 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 22:36:01 2019 (950 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 22:36:01 2019 (950 ms) | general | Screen dimensions for largest-window mode:  1920x1080
+
+L4 | Mon Feb 25 22:36:01 2019 (951 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 22:36:01 2019 (951 ms) | general | 30 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 60 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 120 fps
+L4 | Mon Feb 25 22:36:01 2019 (952 ms) | general | 144 fps
+L4 | Mon Feb 25 22:36:01 2019 (990 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 22:36:01 2019 (990 ms) | general | All resolutions available
+L4 | Mon Feb 25 22:36:02 2019 (587 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 22:36:05 2019 (815 ms) | general | Recording game into file recordedGames/recordedGame000014.txt
+L4 | Mon Feb 25 22:36:05 2019 (836 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 22:36:05 2019 (836 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 22:51:07 2019 (784 ms) | general | New game starting up
+L4 | Mon Feb 25 22:51:07 2019 (828 ms) | general | Target game image size:  1024x600
+
+L4 | Mon Feb 25 22:51:07 2019 (843 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Mon Feb 25 22:51:07 2019 (843 ms) | general | Trying to start in window mode.
+L4 | Mon Feb 25 22:51:07 2019 (849 ms) | general | Want to use largest window that fits on screen.
+L4 | Mon Feb 25 22:51:07 2019 (849 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | The following frame rates are considered possible:
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 30 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 60 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 120 fps
+L4 | Mon Feb 25 22:51:07 2019 (850 ms) | general | 144 fps
+L4 | Mon Feb 25 22:51:07 2019 (889 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Mon Feb 25 22:51:07 2019 (890 ms) | general | All resolutions available
+L4 | Mon Feb 25 22:51:08 2019 (276 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Mon Feb 25 22:51:09 2019 (550 ms) | general | Recording game into file recordedGames/recordedGame000015.txt
+L4 | Mon Feb 25 22:51:09 2019 (551 ms) | general | Only keeping 20 past recordings
+L4 | Mon Feb 25 22:51:09 2019 (551 ms) | general | Removed 0 stale recordings
+L4 | Mon Feb 25 23:23:45 2019 (200 ms) | general | exiting...
+
+L4 | Mon Feb 25 23:23:45 2019 (247 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Feb 25 23:23:45 2019 (466 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Feb 25 23:23:45 2019 (466 ms) | general | Freeing sound sprites
+
+L4 | Mon Feb 25 23:23:45 2019 (467 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Feb 25 23:23:45 2019 (655 ms) | general | exiting: Deleting screen
+
+L4 | Mon Feb 25 23:23:45 2019 (656 ms) | general | exiting: freeing drawString
+
+L4 | Mon Feb 25 23:23:45 2019 (657 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Feb 25 23:23:45 2019 (754 ms) | general | exiting: deleting screenShotPrefix
+
+L4 | Mon Feb 25 23:23:45 2019 (754 ms) | general | exiting: Done.
+
+L4 | Tue Feb 26 00:07:30 2019 (956 ms) | general | New game starting up
+L4 | Tue Feb 26 00:07:31 2019 (4 ms) | general | Target game image size:  1024x600
+
+L4 | Tue Feb 26 00:07:31 2019 (25 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Tue Feb 26 00:07:31 2019 (30 ms) | general | Trying to start in window mode.
+L4 | Tue Feb 26 00:07:31 2019 (39 ms) | general | Want to use largest window that fits on screen.
+L4 | Tue Feb 26 00:07:31 2019 (39 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Tue Feb 26 00:07:31 2019 (41 ms) | general | The following frame rates are considered possible:
+L4 | Tue Feb 26 00:07:31 2019 (41 ms) | general | 30 fps
+L4 | Tue Feb 26 00:07:31 2019 (41 ms) | general | 60 fps
+L4 | Tue Feb 26 00:07:31 2019 (41 ms) | general | 120 fps
+L4 | Tue Feb 26 00:07:31 2019 (41 ms) | general | 144 fps
+L4 | Tue Feb 26 00:07:31 2019 (80 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Tue Feb 26 00:07:31 2019 (80 ms) | general | All resolutions available
+L4 | Tue Feb 26 00:07:32 2019 (375 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Tue Feb 26 00:07:34 2019 (298 ms) | general | Recording game into file recordedGames/recordedGame000016.txt
+L4 | Tue Feb 26 00:07:34 2019 (309 ms) | general | Only keeping 20 past recordings
+L4 | Tue Feb 26 00:07:34 2019 (309 ms) | general | Removed 0 stale recordings
+L4 | Tue Feb 26 00:18:19 2019 (470 ms) | general | New game starting up
+L4 | Tue Feb 26 00:18:19 2019 (470 ms) | general | Target game image size:  1024x600
+
+L4 | Tue Feb 26 00:18:19 2019 (491 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Tue Feb 26 00:18:19 2019 (505 ms) | general | Trying to start in window mode.
+L4 | Tue Feb 26 00:18:19 2019 (522 ms) | general | Want to use largest window that fits on screen.
+L4 | Tue Feb 26 00:18:19 2019 (522 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Tue Feb 26 00:18:19 2019 (533 ms) | general | The following frame rates are considered possible:
+L4 | Tue Feb 26 00:18:19 2019 (533 ms) | general | 30 fps
+L4 | Tue Feb 26 00:18:19 2019 (533 ms) | general | 60 fps
+L4 | Tue Feb 26 00:18:19 2019 (533 ms) | general | 120 fps
+L4 | Tue Feb 26 00:18:19 2019 (533 ms) | general | 144 fps
+L4 | Tue Feb 26 00:18:19 2019 (626 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Tue Feb 26 00:18:19 2019 (626 ms) | general | All resolutions available
+L4 | Tue Feb 26 00:18:19 2019 (889 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Tue Feb 26 00:18:20 2019 (231 ms) | general | Recording game into file recordedGames/recordedGame000017.txt
+L4 | Tue Feb 26 00:18:20 2019 (237 ms) | general | Only keeping 20 past recordings
+L4 | Tue Feb 26 00:18:20 2019 (237 ms) | general | Removed 0 stale recordings
+L4 | Tue Feb 26 00:27:09 2019 (557 ms) | general | exiting...
+
+L4 | Tue Feb 26 00:27:09 2019 (576 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Tue Feb 26 00:27:09 2019 (809 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Tue Feb 26 00:27:09 2019 (809 ms) | general | Freeing sound sprites
+
+L4 | Tue Feb 26 00:27:09 2019 (810 ms) | general | exiting: freeing frameDrawer
+
+L4 | Tue Feb 26 00:27:10 2019 (103 ms) | general | exiting: Deleting screen
+
+L4 | Tue Feb 26 00:27:10 2019 (104 ms) | general | exiting: freeing drawString
+
+L4 | Tue Feb 26 00:27:10 2019 (105 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Tue Feb 26 00:27:10 2019 (317 ms) | general | exiting: Done.
+
+L4 | Tue Feb 26 00:29:55 2019 (764 ms) | general | New game starting up
+L4 | Tue Feb 26 00:29:55 2019 (769 ms) | general | Target game image size:  1024x600
+
+L4 | Tue Feb 26 00:29:55 2019 (777 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Tue Feb 26 00:29:55 2019 (782 ms) | general | Trying to start in window mode.
+L4 | Tue Feb 26 00:29:55 2019 (791 ms) | general | Want to use largest window that fits on screen.
+L4 | Tue Feb 26 00:29:55 2019 (791 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Tue Feb 26 00:29:55 2019 (793 ms) | general | The following frame rates are considered possible:
+L4 | Tue Feb 26 00:29:55 2019 (793 ms) | general | 30 fps
+L4 | Tue Feb 26 00:29:55 2019 (793 ms) | general | 60 fps
+L4 | Tue Feb 26 00:29:55 2019 (793 ms) | general | 120 fps
+L4 | Tue Feb 26 00:29:55 2019 (793 ms) | general | 144 fps
+L4 | Tue Feb 26 00:29:55 2019 (857 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Tue Feb 26 00:29:55 2019 (857 ms) | general | All resolutions available
+L4 | Tue Feb 26 00:29:56 2019 (876 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Tue Feb 26 00:29:58 2019 (170 ms) | general | Recording game into file recordedGames/recordedGame000018.txt
+L4 | Tue Feb 26 00:29:58 2019 (197 ms) | general | Only keeping 20 past recordings
+L4 | Tue Feb 26 00:29:58 2019 (197 ms) | general | Removed 0 stale recordings
+L4 | Tue Feb 26 00:47:03 2019 (280 ms) | general | exiting...
+
+L4 | Tue Feb 26 00:47:03 2019 (343 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Tue Feb 26 00:47:03 2019 (591 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Tue Feb 26 00:47:03 2019 (591 ms) | general | Freeing sound sprites
+
+L4 | Tue Feb 26 00:47:03 2019 (592 ms) | general | exiting: freeing frameDrawer
+
+L4 | Tue Feb 26 00:47:03 2019 (761 ms) | general | exiting: Deleting screen
+
+L4 | Tue Feb 26 00:47:03 2019 (762 ms) | general | exiting: freeing drawString
+
+L4 | Tue Feb 26 00:47:03 2019 (762 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Tue Feb 26 00:47:03 2019 (820 ms) | general | exiting: Done.
+
+L4 | Tue Feb 26 01:20:20 2019 (614 ms) | general | New game starting up
+L4 | Tue Feb 26 01:20:20 2019 (619 ms) | general | Target game image size:  1024x600
+
+L4 | Tue Feb 26 01:20:20 2019 (627 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Tue Feb 26 01:20:20 2019 (632 ms) | general | Trying to start in window mode.
+L4 | Tue Feb 26 01:20:20 2019 (641 ms) | general | Want to use largest window that fits on screen.
+L4 | Tue Feb 26 01:20:20 2019 (641 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Tue Feb 26 01:20:20 2019 (642 ms) | general | The following frame rates are considered possible:
+L4 | Tue Feb 26 01:20:20 2019 (642 ms) | general | 30 fps
+L4 | Tue Feb 26 01:20:20 2019 (642 ms) | general | 60 fps
+L4 | Tue Feb 26 01:20:20 2019 (642 ms) | general | 120 fps
+L4 | Tue Feb 26 01:20:20 2019 (642 ms) | general | 144 fps
+L4 | Tue Feb 26 01:20:20 2019 (681 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Tue Feb 26 01:20:20 2019 (681 ms) | general | All resolutions available
+L4 | Tue Feb 26 01:20:20 2019 (994 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Tue Feb 26 01:20:21 2019 (838 ms) | general | Recording game into file recordedGames/recordedGame000019.txt
+L4 | Tue Feb 26 01:20:21 2019 (839 ms) | general | Only keeping 20 past recordings
+L4 | Tue Feb 26 01:20:21 2019 (839 ms) | general | Removed 0 stale recordings
+L4 | Tue Feb 26 02:12:01 2019 (789 ms) | general | exiting...
+
+L4 | Tue Feb 26 02:12:01 2019 (790 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Tue Feb 26 02:12:02 2019 (23 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Tue Feb 26 02:12:02 2019 (23 ms) | general | Freeing sound sprites
+
+L4 | Tue Feb 26 02:12:02 2019 (24 ms) | general | exiting: freeing frameDrawer
+
+L4 | Tue Feb 26 02:12:02 2019 (185 ms) | general | exiting: Deleting screen
+
+L4 | Tue Feb 26 02:12:02 2019 (185 ms) | general | exiting: freeing drawString
+
+L4 | Tue Feb 26 02:12:02 2019 (186 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Tue Feb 26 02:12:02 2019 (309 ms) | general | exiting: deleting screenShotPrefix
+
+L4 | Tue Feb 26 02:12:02 2019 (309 ms) | general | exiting: Done.
+
+L4 | Tue Feb 26 15:29:36 2019 (493 ms) | general | New game starting up
+L4 | Tue Feb 26 15:29:36 2019 (493 ms) | general | Target game image size:  1024x600
+
+L4 | Tue Feb 26 15:29:36 2019 (511 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Tue Feb 26 15:29:36 2019 (517 ms) | general | Trying to start in window mode.
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | Want to use largest window that fits on screen.
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | Screen dimensions for largest-window mode:  1024x600
+
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | The following frame rates are considered possible:
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | 30 fps
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | 60 fps
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | 120 fps
+L4 | Tue Feb 26 15:29:36 2019 (526 ms) | general | 144 fps
+L4 | Tue Feb 26 15:29:36 2019 (541 ms) | general | Current screen configuration is 1920x1440 with aspect ratio 1.33
+L4 | Tue Feb 26 15:29:36 2019 (541 ms) | general | All resolutions available
+L4 | Tue Feb 26 15:29:36 2019 (728 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=512 (requested 1024)
+
+L4 | Tue Feb 26 15:29:37 2019 (252 ms) | general | Recording game into file recordedGames/recordedGame000020.txt
+L4 | Tue Feb 26 15:29:37 2019 (262 ms) | general | Only keeping 20 past recordings
+L4 | Tue Feb 26 15:29:37 2019 (262 ms) | general | Removed 0 stale recordings
+L4 | Tue Feb 26 18:27:19 2019 (237 ms) | general | exiting...
+
